@@ -1,0 +1,23 @@
+{
+  "name": "patika-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yavuzim/patika-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yavuzim/patika-react/issues"
+  },
+  "homepage": "https://github.com/yavuzim/patika-react#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
